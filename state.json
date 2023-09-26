@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "1P_JAR",
+      "value": "2023-09-26-21",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1698354547.014134,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AEC",
+      "value": "Ackid1THv3tJX4HStnbUpIEbJ2du-EEGc1w8fw-EEc4UQpZgEwzPJphiD5U",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1711314546.387209,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "511=HV54GUwMrLYzBFG13Sta8mD-uKlbFWNZXHciXwUEGH01IsX41LdiDkqr3UjHXz1TWd_5bOHmTtMQWqjPsgA-jGIk-a8nMGiLN0V2OiorhsSdikCvgLPf9TPPKZHIocK3lTK6SYXB-OvnL5Sl9RLZkl9KmEDdRpRvn77e2cNRYR4ANvLmmBL-",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1711573746.82393,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OGPC",
+      "value": "19037049-1:",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1698354546,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"el niño winter forecast\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"bitboy crypto ben armstrong\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"davante adams raiders\",46,[3,143,357,362,396],{\"lm\":[],\"zf\":33,\"zh\":\"davante adams raiders\",\"zi\":\"Davante Adams — Football wide receiver\",\"zl\":8,\"zp\":{\"gs_ssp\":\"eJzj4tLP1TeozCs3yqsyYPQSTUksS8wrSVVITEnMLVYoSsxMSS0qBgDP3gwr\"},\"zs\":\"data:image/jpeg;base64,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\"}],[\"lawsuit washington commanders\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"emergency alert system fema\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"asian games 2023 medal table\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"dengue fever outbreak jamaica\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"mortal kombat 1 invasion klues\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"amazon prime day deals 2023\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"victoria secret karen lawsuit\",0,[3,143,357,362,396],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}},\"q\":\"mQL0ms_wDgOnbX8J5w2hW3TLKPc\"}}"
+        }
+      ]
+    }
+  ]
+}
